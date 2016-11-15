@@ -1,0 +1,9 @@
+/* Portrait tablet and small desktops */
+@media (max-width: 1281px) {
+  .mainHeader h2 {
+    font-size: 40px;
+  }
+}
+
+/* Landscape phone to portrait tablet */
+/* Landscape phones and down */
